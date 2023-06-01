@@ -31,6 +31,16 @@ h3 {
   background-color: #8888DD;
 }
 
+#source a {
+  margin: 0;
+  padding: 0;
+}
+
 li {
   list-style-type: none
+}
+
+strong, em, b, i {
+  margin: 0;
+  padding: 0;
 }
