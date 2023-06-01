@@ -3,6 +3,10 @@
   color: #000000;
   background-color: #EBEA86;
   text-align: center;
+  box-sizing: border-box;
+  max-width: 750px;
+  margin: 5px auto;
+  padding: 5px;
 }
 
 h1 {
@@ -18,11 +22,15 @@ h3 {
 }
 
 .steps {
-    font-size: 1.1em;
+  font-size: 1.1em;
   font-weight: 700;
 }
 
 #source,
 #source a {
   background-color: #8888DD;
+}
+
+li {
+  list-style-type: none
 }
